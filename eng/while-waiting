@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> While waiting, we were watching television </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/kube.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/site.css">
+    
+     
+    <link rel="stylesheet" type="text/css" href="/static/css/blueimp-gallery.min.css">
+
+
+<body>
+
+<div class="main">
+
+    <h3 class="langs subheading">
+        <a href="/dok-smo-cekali" >hr</a>
+        |
+        <a href="#"  class="active" > eng </a>
+    </h3>
+
+    <div class="units-row">
+        <div class="sidebar">
+
+            <hgroup class="pause">
+                <h2>
+                    <a href="/eng/">Katerina Duda</a>
+                </h2>
+                <h3 class="subheading">
+                    <a href="/eng/bio" class="block hoverable">bio</a>
+                    <a href="/eng/contact" class="block hoverable">
+                        
+                            contact
+                        
+                    </a>
+                    <a href="https://vimeo.com/user3677462" class="block hoverable">vimeo</a>
+                </h3>
+            </hgroup>
+
+            
+            <div class="nav-group">
+                <h3 class="subheading"> SELECTED WORKS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li  class="active" >
+                            <a href="/eng/while-waiting">
+                                While waiting, we were watching television
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/trowup">
+                                Throw up, Triptych
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/migraine">
+                                Migraine dairy
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/draft-for-remembrance">
+                                Draft for Remembrance
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/available">
+                                Slobodno/ Available
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/bagdhad">
+                                Baghdad
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/untitled">
+                                Untitled
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+            <div class="nav-group">
+                <h3 class="subheading"> COLLABORATIONS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/eng/retelling">
+                                Retelling
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+
+        </div>
+        <div class="unit-75 content unit-push-right">
+
+            
+	
+    <h1 class="subheading project-title">
+        While waiting, we were watching television
+        <small> Installation, photography and text, 2014. </small>
+    </h1>
+
+    <p>Photographies were taken in year 2014. with a photo negative film that should had  been “best used“ before 1999. I took photos of the places that are related to the 1999’s marking events combined with personal history.</p>
+
+    
+
+    <div id="img-gallery">
+
+        
+        
+            <div class="units-row">
+                <div class="unit-100">
+                        
+                            
+                            
+                        
+                    <a href="/static/img/doksmocekali/slika2_dnevniboravak.jpg" >
+                        <img src="/static/thumb/788x463/img/doksmocekali/slika2_dnevniboravak.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+        
+        
+        <div class="units-row">
+            <div class="unit-100">
+                <ul class="blocks-4">
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/doksmocekali/slika1_dzamija.jpg"  title="Mosque" >
+                                <img src="/static/thumb/178x134/img/doksmocekali/slika1_dzamija.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/doksmocekali/slika3_premantura.jpg"  title="Premantura, solar eclipse" >
+                                <img src="/static/thumb/178x134/img/doksmocekali/slika3_premantura.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/doksmocekali/postav_alu_1.jpg"  title="Final exhibition, Academy of Fine Arts, 2014." >
+                                <img src="/static/thumb/178x134/img/doksmocekali/postav_alu_1.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/doksmocekali/postav_alu_2.jpg"  title="Final exhibition, Academy of Fine Arts, 2014." >
+                                <img src="/static/thumb/178x134/img/doksmocekali/postav_alu_2.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/doksmocekali/postav_alu_3.jpg"  title="Final exhibition, Academy of Fine Arts, 2014." >
+                                <img src="/static/thumb/178x134/img/doksmocekali/postav_alu_3.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/doksmocekali/postav_alu_4.jpg"  title="Final exhibition, Academy of Fine Arts, 2014." >
+                                <img src="/static/thumb/178x134/img/doksmocekali/postav_alu_4.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+        <div class="slides"></div>
+        <h3 class="title"></h3>
+        <a class="prev">‹</a>
+        <a class="next">›</a>
+        <a class="close">×</a>
+        <a class="play-pause"></a>
+        <ol class="indicator"></ol>
+    </div>
+
+
+    <script type="text/javascript" src="/static/js/blueimp-gallery.min.js"></script>
+    <script type="text/javascript" src="/static/js/project-gallery.js"></script>
+    
+
+
+</body>
+</html>
+
+

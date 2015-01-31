@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Troap, triptih </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/kube.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/site.css">
+    
+     
+    <link rel="stylesheet" type="text/css" href="/static/css/blueimp-gallery.min.css">
+
+
+<body>
+
+<div class="main">
+
+    <h3 class="langs subheading">
+        <a href="#"  class="active" >hr</a>
+        |
+        <a href="/eng/trowup" > eng </a>
+    </h3>
+
+    <div class="units-row">
+        <div class="sidebar">
+
+            <hgroup class="pause">
+                <h2>
+                    <a href="/">Katerina Duda</a>
+                </h2>
+                <h3 class="subheading">
+                    <a href="/bio" class="block hoverable">bio</a>
+                    <a href="/kontakt" class="block hoverable">
+                        
+                            kontakt
+                        
+                    </a>
+                    <a href="https://vimeo.com/user3677462" class="block hoverable">vimeo</a>
+                </h3>
+            </hgroup>
+
+            
+            <div class="nav-group">
+                <h3 class="subheading"> ODABRANI RADOVI </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/dok-smo-cekali">
+                                Dok smo čekali, gledali smo televiziju
+                            </a>
+                        </li>
+                        
+                        <li  class="active" >
+                            <a href="/troap">
+                                Troap, triptih
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/migrene">
+                                Dnevnik migrene
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/skica-za-sjecanja">
+                                Skica za sjećanja
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/slobodno">
+                                Slobodno
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/bagdad">
+                                Bagdad
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/bez-naziva">
+                                Bez naziva
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+            <div class="nav-group">
+                <h3 class="subheading"> ZAJEDNIČKI RADOVI </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/prepricavanja">
+                                Prepričavanja
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+
+        </div>
+        <div class="unit-75 content unit-push-right">
+
+            
+	
+    <h1 class="subheading project-title">
+        Troap, triptih
+        <small> Video, 3:25 min, 2014. </small>
+    </h1>
+
+    <p>Uz pomoć Antonije Bačić.<br>
+Troap (eng. trow up, ili skraćeno up’s) je posebna disciplina ispisivanja imena unutar graffiti writinga. Uglavnom se crta ilegalno, a svaki graffiti writer/ica razvija svoj troap. Unaprijed je osmišljen i naučen napamet zbog potrebe da se trag ostavi u što kraćem vremenu. Dobar troap izvodi se u samo nekoliko pokreta pri čemu su slova često izvučena iz jedne linije. Zbog izvedbe pri kojoj ruka s bojom slijedi pokret kako bi se postigao karakterističan flow, troap nudi najveću mogućnost improvizacije linije i odstupanja u kodiranom sustavu graffiti writinga.<br>
+Antoniji i meni su crtanje graffita i popratna subkultura formativan period odrastanja.</p>
+
+    
+
+    <div id="img-gallery">
+
+        
+            <div class="units-row">
+                <div class="unit-100">
+                    <div class="video-wrapper end">
+                       <iframe src="//player.vimeo.com/video/85661105?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        
+        
+            <div class="units-row">
+                <div class="unit-100">
+                        
+                            
+                            
+                        
+                    <a href="/static/img/troap_triptih/4.jpg"  title="Troap, video isječak" >
+                        <img src="/static/thumb/788x463/img/troap_triptih/4.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+        
+        
+        <div class="units-row">
+            <div class="unit-100">
+                <ul class="blocks-4">
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/troap_triptih/5.jpg"  title=" Troap, video isječak" >
+                                <img src="/static/thumb/178x134/img/troap_triptih/5.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/troap_triptih/1_postav_zavrsnaALU.jpg"  title=" Semestralna izložba, ALU, 2014." >
+                                <img src="/static/thumb/178x134/img/troap_triptih/1_postav_zavrsnaALU.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/troap_triptih/2_postav_zavrsnaALU.jpg"  title=" Semestralna izložba, ALU, 2014." >
+                                <img src="/static/thumb/178x134/img/troap_triptih/2_postav_zavrsnaALU.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/troap_triptih/3_postav_zavrsnaALU.jpg"  title=" Semestralna izložba, ALU, 2014." >
+                                <img src="/static/thumb/178x134/img/troap_triptih/3_postav_zavrsnaALU.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+        <div class="slides"></div>
+        <h3 class="title"></h3>
+        <a class="prev">‹</a>
+        <a class="next">›</a>
+        <a class="close">×</a>
+        <a class="play-pause"></a>
+        <ol class="indicator"></ol>
+    </div>
+
+
+    <script type="text/javascript" src="/static/js/blueimp-gallery.min.js"></script>
+    <script type="text/javascript" src="/static/js/project-gallery.js"></script>
+    
+
+
+</body>
+</html>
+
+

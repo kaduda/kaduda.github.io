@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Dnevnik migrene </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/kube.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/site.css">
+    
+     
+    <link rel="stylesheet" type="text/css" href="/static/css/blueimp-gallery.min.css">
+
+
+<body>
+
+<div class="main">
+
+    <h3 class="langs subheading">
+        <a href="#"  class="active" >hr</a>
+        |
+        <a href="/eng/migraine" > eng </a>
+    </h3>
+
+    <div class="units-row">
+        <div class="sidebar">
+
+            <hgroup class="pause">
+                <h2>
+                    <a href="/">Katerina Duda</a>
+                </h2>
+                <h3 class="subheading">
+                    <a href="/bio" class="block hoverable">bio</a>
+                    <a href="/kontakt" class="block hoverable">
+                        
+                            kontakt
+                        
+                    </a>
+                    <a href="https://vimeo.com/user3677462" class="block hoverable">vimeo</a>
+                </h3>
+            </hgroup>
+
+            
+            <div class="nav-group">
+                <h3 class="subheading"> ODABRANI RADOVI </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/dok-smo-cekali">
+                                Dok smo čekali, gledali smo televiziju
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/troap">
+                                Troap, triptih
+                            </a>
+                        </li>
+                        
+                        <li  class="active" >
+                            <a href="/migrene">
+                                Dnevnik migrene
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/skica-za-sjecanja">
+                                Skica za sjećanja
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/slobodno">
+                                Slobodno
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/bagdad">
+                                Bagdad
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/bez-naziva">
+                                Bez naziva
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+            <div class="nav-group">
+                <h3 class="subheading"> ZAJEDNIČKI RADOVI </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/prepricavanja">
+                                Prepričavanja
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+
+        </div>
+        <div class="unit-75 content unit-push-right">
+
+            
+	
+    <h1 class="subheading project-title">
+        Dnevnik migrene
+        <small> Tri knjige, format a5, 2014. </small>
+    </h1>
+
+    <p>Vodim dnevnik migrena kroz 2014. godinu. Svaka od tri knjižice uzima jedan dnevnički aspekt – statistike, dane u tjednu i uzroke boli, zatim fotografije i naposljetku, fragmente esejističkog zapisa.</p>
+
+    
+
+    <div id="img-gallery">
+
+        
+        
+            <div class="units-row">
+                <div class="unit-100">
+                        
+                            
+                            
+                        
+                    <a href="/static/img/migrene/IMG_0734.jpg"  title="Migrene" >
+                        <img src="/static/thumb/788x463/img/migrene/IMG_0734.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+        
+        
+        <div class="units-row">
+            <div class="unit-100">
+                <ul class="blocks-4">
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/migrene/IMG_0723.jpg"  title="Migrene" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0723.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0724.jpg"  title="Migrene" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0724.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0727.jpg"  title="Migrene" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0727.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0728.jpg"  title="Migrene" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0728.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/migrene/IMG_0730.jpg"  title="Migrene" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0730.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0735.jpg"  title="Migrene" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0735.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0737.jpg"  title="Migrene" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0737.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0738.jpg"  title="Migrene" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0738.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+        <div class="slides"></div>
+        <h3 class="title"></h3>
+        <a class="prev">‹</a>
+        <a class="next">›</a>
+        <a class="close">×</a>
+        <a class="play-pause"></a>
+        <ol class="indicator"></ol>
+    </div>
+
+
+    <script type="text/javascript" src="/static/js/blueimp-gallery.min.js"></script>
+    <script type="text/javascript" src="/static/js/project-gallery.js"></script>
+    
+
+
+</body>
+</html>
+
+

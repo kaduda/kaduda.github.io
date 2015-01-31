@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Bez naziva </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/kube.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/site.css">
+    
+     
+    <link rel="stylesheet" type="text/css" href="/static/css/blueimp-gallery.min.css">
+
+
+<body>
+
+<div class="main">
+
+    <h3 class="langs subheading">
+        <a href="#"  class="active" >hr</a>
+        |
+        <a href="/eng/untitled" > eng </a>
+    </h3>
+
+    <div class="units-row">
+        <div class="sidebar">
+
+            <hgroup class="pause">
+                <h2>
+                    <a href="/">Katerina Duda</a>
+                </h2>
+                <h3 class="subheading">
+                    <a href="/bio" class="block hoverable">bio</a>
+                    <a href="/kontakt" class="block hoverable">
+                        
+                            kontakt
+                        
+                    </a>
+                    <a href="https://vimeo.com/user3677462" class="block hoverable">vimeo</a>
+                </h3>
+            </hgroup>
+
+            
+            <div class="nav-group">
+                <h3 class="subheading"> ODABRANI RADOVI </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/dok-smo-cekali">
+                                Dok smo čekali, gledali smo televiziju
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/troap">
+                                Troap, triptih
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/migrene">
+                                Dnevnik migrene
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/skica-za-sjecanja">
+                                Skica za sjećanja
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/slobodno">
+                                Slobodno
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/bagdad">
+                                Bagdad
+                            </a>
+                        </li>
+                        
+                        <li  class="active" >
+                            <a href="/bez-naziva">
+                                Bez naziva
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+            <div class="nav-group">
+                <h3 class="subheading"> ZAJEDNIČKI RADOVI </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/prepricavanja">
+                                Prepričavanja
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+
+        </div>
+        <div class="unit-75 content unit-push-right">
+
+            
+	
+    <h1 class="subheading project-title">
+        Bez naziva
+        <small> Video esej, 3:39 min, 2011. </small>
+    </h1>
+
+    <p>Video esej je kombinacija fotografija iz šezdesetih i sedamdesetih godina pronađenih na otpadu i zvučne naracije. Kroz naraciju propitujem svoj odnos prema bivšoj Jugoslaviji, državi u kojoj sam rođena i koja više ne postoji, a ja sam bila premala da bi se je sjećala. Kao jedna od posljednjih generacija rođenih u socijalizmu, kroz esej propitujem kakav je bio život u bivšem sistemu i na koji se način može graditi odnos prema nečemu o čemu nemam vlastitih sjećanja nego je ono konstruirano sjećanjem drugih i povijesnim čitankama. </p>
+
+    
+
+    <div id="img-gallery">
+
+        
+            <div class="units-row">
+                <div class="unit-100">
+                    <div class="video-wrapper end">
+                       <iframe src="//player.vimeo.com/video/104218769?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        
+        
+        
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+        <div class="slides"></div>
+        <h3 class="title"></h3>
+        <a class="prev">‹</a>
+        <a class="next">›</a>
+        <a class="close">×</a>
+        <a class="play-pause"></a>
+        <ol class="indicator"></ol>
+    </div>
+
+
+    <script type="text/javascript" src="/static/js/blueimp-gallery.min.js"></script>
+    <script type="text/javascript" src="/static/js/project-gallery.js"></script>
+    
+
+
+</body>
+</html>
+
+

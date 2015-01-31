@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Migraine dairy </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/kube.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/site.css">
+    
+     
+    <link rel="stylesheet" type="text/css" href="/static/css/blueimp-gallery.min.css">
+
+
+<body>
+
+<div class="main">
+
+    <h3 class="langs subheading">
+        <a href="/migrene" >hr</a>
+        |
+        <a href="#"  class="active" > eng </a>
+    </h3>
+
+    <div class="units-row">
+        <div class="sidebar">
+
+            <hgroup class="pause">
+                <h2>
+                    <a href="/eng/">Katerina Duda</a>
+                </h2>
+                <h3 class="subheading">
+                    <a href="/eng/bio" class="block hoverable">bio</a>
+                    <a href="/eng/contact" class="block hoverable">
+                        
+                            contact
+                        
+                    </a>
+                    <a href="https://vimeo.com/user3677462" class="block hoverable">vimeo</a>
+                </h3>
+            </hgroup>
+
+            
+            <div class="nav-group">
+                <h3 class="subheading"> SELECTED WORKS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/eng/while-waiting">
+                                While waiting, we were watching television
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/trowup">
+                                Throw up, Triptych
+                            </a>
+                        </li>
+                        
+                        <li  class="active" >
+                            <a href="/eng/migraine">
+                                Migraine dairy
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/draft-for-remembrance">
+                                Draft for Remembrance
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/available">
+                                Slobodno/ Available
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/bagdhad">
+                                Baghdad
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/untitled">
+                                Untitled
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+            <div class="nav-group">
+                <h3 class="subheading"> COLLABORATIONS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/eng/retelling">
+                                Retelling
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+
+        </div>
+        <div class="unit-75 content unit-push-right">
+
+            
+	
+    <h1 class="subheading project-title">
+        Migraine dairy
+        <small> Three books, A5 format, 2014. </small>
+    </h1>
+
+    <p>In 2014. I wrote a migraine attacks diary. Each of the three books deals with one diary aspect – statistics in the first one, days of a week, causes of pain and photos in the second and essay fragments in the last one.</p>
+
+    
+
+    <div id="img-gallery">
+
+        
+        
+            <div class="units-row">
+                <div class="unit-100">
+                        
+                            
+                            
+                        
+                    <a href="/static/img/migrene/IMG_0734.jpg"  title="Migrene" >
+                        <img src="/static/thumb/788x463/img/migrene/IMG_0734.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+        
+        
+        <div class="units-row">
+            <div class="unit-100">
+                <ul class="blocks-4">
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/migrene/IMG_0723.jpg"  title="Migraine" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0723.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0724.jpg"  title="Migraine" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0724.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0727.jpg"  title="Migraine" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0727.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0728.jpg"  title="Migraine" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0728.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/migrene/IMG_0730.jpg"  title="Migraine" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0730.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0735.jpg"  title="Migraine" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0735.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0737.jpg"  title="Migraine" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0737.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/migrene/IMG_0738.jpg"  title="Migraine" >
+                                <img src="/static/thumb/178x134/img/migrene/IMG_0738.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+        <div class="slides"></div>
+        <h3 class="title"></h3>
+        <a class="prev">‹</a>
+        <a class="next">›</a>
+        <a class="close">×</a>
+        <a class="play-pause"></a>
+        <ol class="indicator"></ol>
+    </div>
+
+
+    <script type="text/javascript" src="/static/js/blueimp-gallery.min.js"></script>
+    <script type="text/javascript" src="/static/js/project-gallery.js"></script>
+    
+
+
+</body>
+</html>
+
+

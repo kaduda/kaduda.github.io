@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Throw up, Triptych </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/kube.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/site.css">
+    
+     
+    <link rel="stylesheet" type="text/css" href="/static/css/blueimp-gallery.min.css">
+
+
+<body>
+
+<div class="main">
+
+    <h3 class="langs subheading">
+        <a href="/troap" >hr</a>
+        |
+        <a href="#"  class="active" > eng </a>
+    </h3>
+
+    <div class="units-row">
+        <div class="sidebar">
+
+            <hgroup class="pause">
+                <h2>
+                    <a href="/eng/">Katerina Duda</a>
+                </h2>
+                <h3 class="subheading">
+                    <a href="/eng/bio" class="block hoverable">bio</a>
+                    <a href="/eng/contact" class="block hoverable">
+                        
+                            contact
+                        
+                    </a>
+                    <a href="https://vimeo.com/user3677462" class="block hoverable">vimeo</a>
+                </h3>
+            </hgroup>
+
+            
+            <div class="nav-group">
+                <h3 class="subheading"> SELECTED WORKS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/eng/while-waiting">
+                                While waiting, we were watching television
+                            </a>
+                        </li>
+                        
+                        <li  class="active" >
+                            <a href="/eng/trowup">
+                                Throw up, Triptych
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/migraine">
+                                Migraine dairy
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/draft-for-remembrance">
+                                Draft for Remembrance
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/available">
+                                Slobodno/ Available
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/bagdhad">
+                                Baghdad
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/untitled">
+                                Untitled
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+            <div class="nav-group">
+                <h3 class="subheading"> COLLABORATIONS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/eng/retelling">
+                                Retelling
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+
+        </div>
+        <div class="unit-75 content unit-push-right">
+
+            
+	
+    <h1 class="subheading project-title">
+        Throw up, Triptych
+        <small> Video, 3:25 min, 2014. </small>
+    </h1>
+
+    <p>With a hand of Antonija Bačić<br>
+Throw up (or just up's) is a special discipline of writing your name in graffiti writing. It's primarily designed for illegal writing, and every graffiti writer has its own version. Writers pre-design and learn their own throw up by heart because it’s essential for it to be done as soon as possible. The recipe for a good throw up is a construction in only few moves, or even better when the letters are done in one line. While making it, or better said, performing it, the movement of the body follows the hand with aerosol in order to achieve the characteristic flow. There being, the throw up is a style of graffiti writing that offers the greatest possibility of improvisation and deviations in such a coded system like graffiti writing.<br>
+The graffiti writing and the subculture derived from it were formative for Antonija and myself both. </p>
+
+    
+
+    <div id="img-gallery">
+
+        
+            <div class="units-row">
+                <div class="unit-100">
+                    <div class="video-wrapper end">
+                       <iframe src="//player.vimeo.com/video/85661105?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        
+        
+            <div class="units-row">
+                <div class="unit-100">
+                        
+                            
+                            
+                        
+                    <a href="/static/img/troap_triptih/4.jpg"  title=" Troap, video isječak" >
+                        <img src="/static/thumb/788x463/img/troap_triptih/4.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+        
+        
+        <div class="units-row">
+            <div class="unit-100">
+                <ul class="blocks-4">
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/troap_triptih/5.jpg"  title=" Trow up, videostill" >
+                                <img src="/static/thumb/178x134/img/troap_triptih/5.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/troap_triptih/1_postav_zavrsnaALU.jpg"  title=" Semestral exhibiton, Academy of Fine Arts, 2014." >
+                                <img src="/static/thumb/178x134/img/troap_triptih/1_postav_zavrsnaALU.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/troap_triptih/2_postav_zavrsnaALU.jpg"  title=" Semestral exhibiton, Academy of Fine Arts, 2014." >
+                                <img src="/static/thumb/178x134/img/troap_triptih/2_postav_zavrsnaALU.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/troap_triptih/3_postav_zavrsnaALU.jpg"  title=" Semestral exhibiton, Academy of Fine Arts, 2014." >
+                                <img src="/static/thumb/178x134/img/troap_triptih/3_postav_zavrsnaALU.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+        <div class="slides"></div>
+        <h3 class="title"></h3>
+        <a class="prev">‹</a>
+        <a class="next">›</a>
+        <a class="close">×</a>
+        <a class="play-pause"></a>
+        <ol class="indicator"></ol>
+    </div>
+
+
+    <script type="text/javascript" src="/static/js/blueimp-gallery.min.js"></script>
+    <script type="text/javascript" src="/static/js/project-gallery.js"></script>
+    
+
+
+</body>
+</html>
+
+

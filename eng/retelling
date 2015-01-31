@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Retelling </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/kube.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/site.css">
+    
+     
+    <link rel="stylesheet" type="text/css" href="/static/css/blueimp-gallery.min.css">
+
+
+<body>
+
+<div class="main">
+
+    <h3 class="langs subheading">
+        <a href="/prepricavanja" >hr</a>
+        |
+        <a href="#"  class="active" > eng </a>
+    </h3>
+
+    <div class="units-row">
+        <div class="sidebar">
+
+            <hgroup class="pause">
+                <h2>
+                    <a href="/eng/">Katerina Duda</a>
+                </h2>
+                <h3 class="subheading">
+                    <a href="/eng/bio" class="block hoverable">bio</a>
+                    <a href="/eng/contact" class="block hoverable">
+                        
+                            contact
+                        
+                    </a>
+                    <a href="https://vimeo.com/user3677462" class="block hoverable">vimeo</a>
+                </h3>
+            </hgroup>
+
+            
+            <div class="nav-group">
+                <h3 class="subheading"> SELECTED WORKS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/eng/while-waiting">
+                                While waiting, we were watching television
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/trowup">
+                                Throw up, Triptych
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/migraine">
+                                Migraine dairy
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/draft-for-remembrance">
+                                Draft for Remembrance
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/available">
+                                Slobodno/ Available
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/bagdhad">
+                                Baghdad
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/untitled">
+                                Untitled
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+            <div class="nav-group">
+                <h3 class="subheading"> COLLABORATIONS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li  class="active" >
+                            <a href="/eng/retelling">
+                                Retelling
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+
+        </div>
+        <div class="unit-75 content unit-push-right">
+
+            
+	
+    <h1 class="subheading project-title">
+        Retelling
+        <small> Site specific installation, Liberspace, Hallway-gallery, 2014. </small>
+    </h1>
+
+    <p>Together with Roko Crnić<br>
+Retelling is a piece made in collaboration with Roko Crnić designed for a specific space – Libespace gallery, based in Jurišićeva Street hallway in Zagreb. The piece consists of collected impressions and memories of its occasional visitors or users like dancers who use it as a studio, or even the impressions of the building’s residents. The collected text is fragmented and made into phrases which are installed in the space. The sentences make references to certain spots and reconstruct some events that took place in the hallway.
+The installation also consists of audio work that reconstructs these events by displacing the narration and narrators. </p>
+
+    
+
+    <div id="img-gallery">
+
+        
+        
+            <div class="units-row">
+                <div class="unit-100">
+                        
+                            
+                            
+                        
+                    <a href="/static/img/prepricavanja/4.jpg" >
+                        <img src="/static/thumb/788x463/img/prepricavanja/4.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+        
+        
+        <div class="units-row">
+            <div class="unit-100">
+                <ul class="blocks-4">
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/prepricavanja/1.jpg"  title="I hid from the rain." >
+                                <img src="/static/thumb/178x134/img/prepricavanja/1.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/prepricavanja/2.jpg"  title="I sung as loud as I would normally talk." >
+                                <img src="/static/thumb/178x134/img/prepricavanja/2.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/prepricavanja/3.jpg"  title="I don&#39;t know what it&#39;s like when you live in the city centre, when the centre is your neighbourhood; I would always miss the hallway" >
+                                <img src="/static/thumb/178x134/img/prepricavanja/3.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/prepricavanja/5.jpg"  title="You see the traces of other activities, images of some people, diplomas, a bunch of chairs with no clear purpose, a piano nobody uses." >
+                                <img src="/static/thumb/178x134/img/prepricavanja/5.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/prepricavanja/6.jpg"  title="Everybody hit themselves at least once against that pole." >
+                                <img src="/static/thumb/178x134/img/prepricavanja/6.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/prepricavanja/7.jpg"  title="he starts running at the entrance so people would think he is really late" >
+                                <img src="/static/thumb/178x134/img/prepricavanja/7.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/prepricavanja/8.jpg"  title="Generally, people say they would never do certain things, and yet they start doing them." >
+                                <img src="/static/thumb/178x134/img/prepricavanja/8.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/prepricavanja/9.jpg"  title="...is a place in-between, because it&#39;s used by some people occasionally, but it&#39;s not on the street, it&#39;s not like everyone will enter and experience it" >
+                                <img src="/static/thumb/178x134/img/prepricavanja/9.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+        <div class="slides"></div>
+        <h3 class="title"></h3>
+        <a class="prev">‹</a>
+        <a class="next">›</a>
+        <a class="close">×</a>
+        <a class="play-pause"></a>
+        <ol class="indicator"></ol>
+    </div>
+
+
+    <script type="text/javascript" src="/static/js/blueimp-gallery.min.js"></script>
+    <script type="text/javascript" src="/static/js/project-gallery.js"></script>
+    
+
+
+</body>
+</html>
+
+

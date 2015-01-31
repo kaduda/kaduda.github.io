@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Slobodno/ Available </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/kube.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/site.css">
+    
+     
+    <link rel="stylesheet" type="text/css" href="/static/css/blueimp-gallery.min.css">
+
+
+<body>
+
+<div class="main">
+
+    <h3 class="langs subheading">
+        <a href="/slobodno" >hr</a>
+        |
+        <a href="#"  class="active" > eng </a>
+    </h3>
+
+    <div class="units-row">
+        <div class="sidebar">
+
+            <hgroup class="pause">
+                <h2>
+                    <a href="/eng/">Katerina Duda</a>
+                </h2>
+                <h3 class="subheading">
+                    <a href="/eng/bio" class="block hoverable">bio</a>
+                    <a href="/eng/contact" class="block hoverable">
+                        
+                            contact
+                        
+                    </a>
+                    <a href="https://vimeo.com/user3677462" class="block hoverable">vimeo</a>
+                </h3>
+            </hgroup>
+
+            
+            <div class="nav-group">
+                <h3 class="subheading"> SELECTED WORKS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/eng/while-waiting">
+                                While waiting, we were watching television
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/trowup">
+                                Throw up, Triptych
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/migraine">
+                                Migraine dairy
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/draft-for-remembrance">
+                                Draft for Remembrance
+                            </a>
+                        </li>
+                        
+                        <li  class="active" >
+                            <a href="/eng/available">
+                                Slobodno/ Available
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/bagdhad">
+                                Baghdad
+                            </a>
+                        </li>
+                        
+                        <li >
+                            <a href="/eng/untitled">
+                                Untitled
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+            <div class="nav-group">
+                <h3 class="subheading"> COLLABORATIONS </h3>
+                <nav class="nav">
+                    <ul>
+                        
+                        <li >
+                            <a href="/eng/retelling">
+                                Retelling
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            
+
+        </div>
+        <div class="unit-75 content unit-push-right">
+
+            
+	
+    <h1 class="subheading project-title">
+        Slobodno/ Available
+        <small> Preformance, 36 min, 2012. </small>
+    </h1>
+
+    <p>The piece Slobodno (Available) is directed towards the issue of public space. I performed the piece as  a  reaction  to  the  situation  in  which  public  space  gradually  disappears  because  of  private interests. The performance took place in one of Zagreb’s squares which was the symbol of an affair caused by a local businessman who built an elite shopping mall there. I wove the word SLOBODNO (Croatian  word  for  free,  available)  into  a  metal  bench  which  lost  its  function  of  a  public  resting place. The performance was documented with a video camera.</p>
+
+    
+
+    <div id="img-gallery">
+
+        
+        
+            <div class="units-row">
+                <div class="unit-100">
+                        
+                            
+                            
+                        
+                    <a href="/static/img/slobodno/slobodno-glavna.jpg"  title="Foto Dražen Žerjav" >
+                        <img src="/static/thumb/788x463/img/slobodno/slobodno-glavna.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+        
+        
+        <div class="units-row">
+            <div class="unit-100">
+                <ul class="blocks-4">
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/slobodno/slobodno-ja.jpg"  title="Foto Dražen Žerjav" >
+                                <img src="/static/thumb/178x134/img/slobodno/slobodno-ja.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/slobodno/slobodno-siroki.jpg"  title="Foto Dražen Žerjav" >
+                                <img src="/static/thumb/178x134/img/slobodno/slobodno-siroki.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/slobodno/slobodno-zena.jpg"  title="Foto Dražen Žerjav" >
+                                <img src="/static/thumb/178x134/img/slobodno/slobodno-zena.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/slobodno/slobodno-slova.jpg"  title="Foto Dražen Žerjav" >
+                                <img src="/static/thumb/178x134/img/slobodno/slobodno-slova.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li  class="block-first" >
+                            <a href="/static/img/slobodno/6_postav_ffzg.jpg"  title="Refleksije grada (City Reflections), Faculty of Humanities and Social Sciences, 2013." >
+                                <img src="/static/thumb/178x134/img/slobodno/6_postav_ffzg.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                        
+                            
+                            
+                        
+                        <li >
+                            <a href="/static/img/slobodno/7_postav_zavrsnaALU.jpg"  title="Semestral exhibiton, Academy of Fine Arts, 2012." >
+                                <img src="/static/thumb/178x134/img/slobodno/7_postav_zavrsnaALU.jpg" alt="">
+                            </a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+        <div class="slides"></div>
+        <h3 class="title"></h3>
+        <a class="prev">‹</a>
+        <a class="next">›</a>
+        <a class="close">×</a>
+        <a class="play-pause"></a>
+        <ol class="indicator"></ol>
+    </div>
+
+
+    <script type="text/javascript" src="/static/js/blueimp-gallery.min.js"></script>
+    <script type="text/javascript" src="/static/js/project-gallery.js"></script>
+    
+
+
+</body>
+</html>
+
+
