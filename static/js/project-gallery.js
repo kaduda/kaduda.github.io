@@ -5,7 +5,8 @@ document.getElementById('img-gallery').onclick = function (event) {
         link = target.src ? target.parentNode : target,
         options = {
             index: link,
-            event: event
+            event: event,
+            preloadRange: 0
         },
         links = this.getElementsByTagName('a');
 
