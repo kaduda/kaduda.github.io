@@ -1,13 +1,10 @@
 body, html { height: 100%; }
-body { font-family: 'Noto Sans', sans-serif; color: #6C757E; }
+body { font-family: 'Roboto Slab', serif; color: #6C757E; font-weight: 300;}
 
-h1, h2, h3, h4, h5, h6 { color: #515151; font-weight: normal; font-family: 'Rambla', sans-serif; }
+h1, h2, h3, h4, h5, h6 { color: #515151; font-family: 'Roboto Slab', serif; font-weight: 700 !important;}
 a { text-decoration: none; }
 a { color: #6BBBCE; }
 a:hover, a:focus { color: #105E71; }
-
-ul { list-style-type: circle; }
-.hide { display: none; }
 
 .sidebar a { color: #6C757E; }
 .sidebar a.hoverable:hover { color: #6BBBCE; }
@@ -15,6 +12,7 @@ ul { list-style-type: circle; }
 .nav ul li a:hover { padding-left: 10px; text-decoration: none;  color: #6BBBCE; }
 .nav ul li.active a { padding-left: 7px; border-left: 2px solid #6C757E; color: #6C757E; line-height: 8px; }
 .nav ul li.active { padding: 7px 0; }
+
 
 .main { padding: 40px 20px 0; max-width: 1100px; margin: 0 auto; position: relative; background: #fff; min-height: 100%; }
 .langs { position: absolute; right: 10px; top: 10px; }
@@ -25,9 +23,13 @@ ul { list-style-type: circle; }
 h1.subheading { font-size: 22px; }
 .block { display: block; }
 
+h3.subheading { font-size: 12px; margin-top: 15px}
+
 .project-title small { display: block; font-size: 12px; margin-top: 3px; }
 
 .home-page h2 { margin-top: 10px; margin-bottom: 0; font-style: normal; }
+
+.home-page figcaption { font-style: normal; }
 
 audio { width: 100%; }
 
