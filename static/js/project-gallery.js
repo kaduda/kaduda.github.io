@@ -1,6 +1,7 @@
 
 document.getElementById('img-gallery').onclick = function (event) {
     event = event || window.event;
+    event.preventDefault();
     var target = event.target || event.srcElement,
         link = target.src ? target.parentNode : target,
         options = {
@@ -17,7 +18,7 @@ document.getElementById('img-gallery').onclick = function (event) {
 
 function to_blueimp_array(html_collection) {
     var list = [];
-    for (var i = html_collection.length - 1; i >= 0; i--) {
+    for (var i = 0; i < html_collection.length; i++) {
         var link = html_collection[i];
         list.push({
             title: link.title,
